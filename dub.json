@@ -2,7 +2,7 @@
     "name": "process_hollowing",
     "description": " Advanced process hollowing and manipulation toolkit",
     "authors": [
-        "0romos"
+        "0x0060"
     ],
     "license": "MIT",
     "dependencies": {},
